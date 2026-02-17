@@ -1,0 +1,50 @@
+# Godiego – 銀河鉄道999 〜シン・ミックス〜
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+さあ行くんだ その顔を上げて
+新しい風に心を洗おう
+古い夢は 置いて行くがいい
+ふたたび始まる ドラマのために
+あの人はもう 思い出だけど
+君を遠くで 見つめてる
+The Galaxy Express 999
+Will take you on a journey
+A never ending journey
+A journey to the stars
+そうさ 君は気づいてしまった
+やすらぎよりも 素晴しいものに
+地平線に消える瞳には
+いつしかまぶしい男の光
+あの人の目がうなずいていたよ
+別れも愛のひとつだと
+The Galaxy Express 999
+Will take you on a journey
+A never ending journey
+A journey to the stars
+The Galaxy Express 999
+Will take you on a journey
+A never ending journey
+A journey to the stars
+The Galaxy Express 999
+Will take you on a journey
+A never ending journey
+A journey to the stars
+The Galaxy Express 999
+Will take you on a journey
+A never ending journey
+A journey to the stars
+The Galaxy Express 999
+Will take you on a journey
+A never ending journey
+A journey to the stars
+The Galaxy Express 999
+Will take you on a journey
+A never ending journey
+A journey to the stars
+The Galaxy Express 999
+Will take you on a journey
+A never ending journey
+A journey to the stars
+```
